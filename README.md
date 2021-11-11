@@ -14,18 +14,18 @@ function reachMe() {
 
 ### My Web Design Projects:
 
-https://niksgunjal.github.io/bookmark-landing/
+1. Bookmark Landing - https://niksgunjal.github.io/bookmark-landing/
 
-https://niksgunjal.github.io/furniture-landing/
+2. Furniture Landing - https://niksgunjal.github.io/furniture-landing/
 
-https://niksgunjal.github.io/product-landing/
+3. Product Landing - https://niksgunjal.github.io/product-landing/
 
-https://niksgunjal.github.io/foodka-food-order/
+4. Foodka Food Order - https://niksgunjal.github.io/foodka-food-order/
 
-https://niksgunjal.github.io/chawk-bazar/
+5. Chawk Bazar Cloth Shopping- https://niksgunjal.github.io/chawk-bazar/
 
-https://niksgunjal.github.io/chatapp/
+6. Chat App - https://niksgunjal.github.io/chatapp/
 
-https://niksgunjal.github.io/api-tracker/
+7. API Tracker - https://niksgunjal.github.io/api-tracker/
 
-https://niksgunjal.github.io/bank-landing/
+8. Bank Landing - https://niksgunjal.github.io/bank-landing/
