@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @niksgunjal
 - 👀 I’m interested in Web Design
 - 🌱 I’m currently learning Frontend Development(HTML,CSS,Bootstrap,javascript)
-- 💞️ I’m love to create websites which i imagine
+- 💞️ I love to create websites which i imagine
 - 📫 How to reach me : 
 
 function reachMe() {
